@@ -308,6 +308,13 @@ header .navbar ul li a:hover{
 .services .box-container .box:hover img{
     transform: scale(1.2);
 }
+.services .box-container .box span{
+    font-size: 1.7rem;
+    background: #222;
+    color: #fff;
+    border-radius: 5rem;
+    padding: .5rem .5rem;
+}
 .contact .row{
     display: flex;
     align-items: center;
