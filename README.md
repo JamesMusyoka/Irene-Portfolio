@@ -13,6 +13,6 @@ CSS
 JAVASCRIPT
 ## Support and contact details
 email:jamesmu475@gmail.com
-Phone no:0759307618
+Phone Number:0759307618
 ### License
  Copyright (c) 2023 **James Muito Musyoka**
